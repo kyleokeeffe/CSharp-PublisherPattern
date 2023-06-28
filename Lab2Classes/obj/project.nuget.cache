@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iXjdN2KAvId40Qtwio/WxBpysIJdV2sAN7sxCTtLnPe3bO+sWyxJYzF6BDIIs/5xTjypmqNumIoX/La1Co5NLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okeef\\Documents\\01School\\sem5\\prog3\\lab2-Publisher\\CSharp-Publisher\\Lab2Classes\\Lab2Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okeef\\.nuget\\packages\\extended.wpf.toolkit\\4.5.0\\extended.wpf.toolkit.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

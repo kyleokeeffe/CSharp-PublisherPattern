@@ -1,0 +1,12 @@
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\bin\Debug\net6.0\Lab2Classes.deps.json
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\bin\Debug\net6.0\Lab2Classes.dll
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\bin\Debug\net6.0\Lab2Classes.pdb
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\Lab2Classes.csproj.AssemblyReference.cache
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\Lab2Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\Lab2Classes.AssemblyInfoInputs.cache
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\Lab2Classes.AssemblyInfo.cs
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\Lab2Classes.csproj.CoreCompileInputs.cache
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\Lab2Classes.dll
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\refint\Lab2Classes.dll
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\Lab2Classes.pdb
+C:\Users\okeef\Documents\01School\sem5\prog3\Lab2Classes\obj\Debug\net6.0\ref\Lab2Classes.dll
